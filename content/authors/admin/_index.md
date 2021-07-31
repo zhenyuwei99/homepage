@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include researching protein-folding problem In silico.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Molecular dynamics
+- Implicit solvent model
+- Enhanced sampling method
+- Artificial intelligence
 
 education:
   courses:
@@ -43,11 +44,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: far
   link: 'mailto:zhenyuwei99@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Zhenyu-Wei-7
 - icon: github
   icon_pack: fab
   link: https://github.com/zhenyuwei99
@@ -67,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhenyu Wei is currently a graduate student pursuing a master's degree in Mechanical Engineering, Southeast University. His research interests include using and developing implicit solvent model, enhanced sampling method, and large-step molecular dynamics integrator to research protein-folding problems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His work focuses on using a simplified model to narrow the large gap between computer simulation results and experimental observations for the complex bio-system.
