@@ -31,10 +31,10 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  - course: MSc in Mechanical Engineering
+  - course: MEng in Mechanical Engineering
     institution: Southeast University
     year: 2021-
-  - course: BSc in Mechanical Engineering
+  - course: BEng in Mechanical Engineering
     institution: Southeast University
     year: 2017-2021
 
