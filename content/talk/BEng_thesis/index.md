@@ -1,5 +1,5 @@
 ---
-title: Undergraduate Thesis
+title: BEng Thesis
 event: Thesis
 
 location: Southeast University
