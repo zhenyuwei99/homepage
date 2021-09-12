@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Zhenyu Wei is currently a graduate student pursuing a master's degree in Mechanical Engineering, Southeast University. His research interests include using and developing implicit solvent model, enhanced sampling method, and large-step molecular dynamics integrator to research protein-folding problems. 
+Zhenyu Wei is currently a graduate student pursuing a master's degree in Mechanical Engineering, Southeast University. His research interests include using and developing implicit solvent model, enhanced sampling method, and large-step molecular dynamics integrator to research biophysical processes of protein. 
 
 His work focuses on using a simplified model to narrow the large gap between computer simulation results and experimental observations for the complex bio-system.
