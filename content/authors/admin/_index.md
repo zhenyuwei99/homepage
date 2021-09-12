@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include researching protein-folding problem In silico.
 
 interests:
-- Molecular dynamics
+- Computational biology/chemistry
 - Implicit solvent model
 - Enhanced sampling method
-- Artificial intelligence
+- Deep Learning
 
 education:
   courses:
