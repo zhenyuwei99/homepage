@@ -1,6 +1,6 @@
 ---
-title: OpenPD
-summary: OpenPD, standing for **Open** **P**eptide **D**ynamics, is an opened toolkit based on Python for peptide dynamics simulation.
+title: MDPy
+summary: MDPy is a python framework for highly extensible and flexible molecular dynamics simulation
 tags:
 - Molecular Dynamics
 date: "2021-03-01T00:00:00Z"
@@ -9,6 +9,6 @@ date: "2021-03-01T00:00:00Z"
 external_link: http://openpd.net
 
 image: 
-  caption: OpenPD
+  caption: MDPy
   focal_point: Smart
 ---
