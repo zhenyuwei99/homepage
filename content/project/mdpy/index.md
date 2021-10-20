@@ -1,6 +1,6 @@
 ---
 title: MDPy
-summary: MDPy is a python framework for highly extensible and flexible molecular dynamics simulation
+summary: MDPy is a highly extensible Python framework for Molecular Dynamics simulation
 tags:
 - Molecular Dynamics
 date: "2021-03-01T00:00:00Z"
